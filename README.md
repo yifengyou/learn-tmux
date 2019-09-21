@@ -20,8 +20,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * GitHub:<https://github.com/yifengyou/learn-tmux/>
 * GitPage:<https://yifengyou.github.io/learn-tmux/>
 
----
-
 
 ## 目录
 
@@ -50,13 +48,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [帮助信息](docs/其他操作/帮助信息.md)
 * [.tmux.conf配置](docs/tmuxconf配置.md)
 
----
 
 ## 效果图
 
 ![20190921_122022_93](image/20190921_122022_93.png)
 
----
 
 
 ## 参考
