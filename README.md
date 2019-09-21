@@ -2,8 +2,6 @@
 
 ![20190921_130741_57](image/20190921_130741_57.png)
 
-
-
 ## 本仓库内容
 
 1. tmux基本功学习笔记
@@ -21,7 +19,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * GitBook:<https://yifengyou.gitbooks.io/learn-tmux/content/>
 * GitHub:<https://github.com/yifengyou/learn-tmux/>
 * GitPage:<https://yifengyou.github.io/learn-tmux/>
-
 
 ---
 
@@ -64,7 +61,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 参考
 
-* [awesome-cheatsheets]: <https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt>
+* awesome-cheatsheets : <https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt>
 
 
 
