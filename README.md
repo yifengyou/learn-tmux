@@ -20,9 +20,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * GitHub:<https://github.com/yifengyou/learn-tmux/>
 * GitPage:<https://yifengyou.github.io/learn-tmux/>
 
-
 ## 目录
-
 
 * [安装](docs/安装.md)
 * [基本概念](docs/基本概念.md)
@@ -53,13 +51,28 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ![20190921_122022_93](image/20190921_122022_93.png)
 
+## 快捷键
 
+![20191027_101744_60](image/20191027_101744_60.png)
 
 ## 参考
 
 * awesome-cheatsheets : <https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt>
 
+## 优缺点
 
+* 优点
+
+1. 功能强劲
+2. 简洁
+3. 高效
+4. 灵活可配置
+
+
+* 缺点
+
+1. 不支持lrzsz，至少原生不支持，怎么破？
+2. 对vim显示有影响，怎么配置？
 
 
 ---
